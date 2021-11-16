@@ -1,0 +1,7 @@
+.TagGreen {
+  border-radius: var(--border-radius-soft);
+  font-weight: 500;
+  margin-right: var(--space-s);
+  min-width: max-content;
+  padding: 0px 8px 0px 8px;
+}
